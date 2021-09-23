@@ -43,22 +43,22 @@ All the communications will be carried out via Piazza, so please enroll to AIN21
 
 ## (Tentative) Schedule
 
-Date | Topic | Reading(s)
----------|---------- |--------------
-27/09 | Introduction to Data Science |
-04/10 | Causality, Experiments, Tables in Python | 
-11/10 | Data Sampling, Distributions and Testing Hypotheses |
-18/10 | Rectangular Data and Basic SQL | 
-25/10 | Data Cleaning, Reduction and Transformation |
-01/11 | Data Visualization |
-08/11 | Introduction to Statistical Inference  |
-15/11 | Midterm Exam |
-22/11 | Text, Graphs and Other Data Resources | 
-29/11 | Linear Models and Regression |
-06/12 | Multiple Linear Modeling |
-13/12 | Classification |
-20/12 | Clustering |
-27/12 | Data Science and Ethics | 
+Week | Date | Topic | Reading(s)
+---------|---------|---------- |--------------
+1 | 27/09 | Introduction to Data Science |
+2 | 04/10 | Causality, Experiments, Tables in Python | 
+3 | 11/10 | Data Sampling, Distributions and Testing Hypotheses |
+4 | 18/10 | Rectangular Data and Basic SQL | 
+5 | 25/10 | Data Cleaning, Reduction and Transformation |
+6 | 01/11 | Data Visualization |
+7 | 08/11 | Introduction to Statistical Inference  |
+8 | 15/11 | Midterm Exam |
+9 | 22/11 | Text, Graphs and Other Data Resources | 
+10 | 29/11 | Linear Models and Regression |
+11 | 06/12 | Multiple Linear Modeling |
+12 | 13/12 | Classification |
+13 | 20/12 | Clustering |
+14 | 27/12 | Data Science and Ethics | 
  
 
 ## Useful Links and Resources
