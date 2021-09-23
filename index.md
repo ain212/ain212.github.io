@@ -46,24 +46,24 @@ All the communications will be carried out via Piazza, so please enroll to AIN21
 Date | Topic | Reading(s)
 ---------|---------- |--------------
 27/09 | Introduction to Data Science |
-04/10 | Causality, Experiments, Tables | 
+04/10 | Causality, Experiments, Tables in Python | 
 11/10 | Data Sampling, Distributions and Testing Hypotheses |
 18/10 | Rectangular Data and Basic SQL | 
-25/10 | Data Cleaning |
-01/11 | Data Reduction and Transformation |
-08/11 | Data Visualization|
+25/10 | Data Cleaning, Reduction and Transformation |
+01/11 | Data Visualization |
+08/11 | Introduction to Statistical Inference  |
 15/11 | Midterm Exam |
 22/11 | Text, Graphs and Other Data Resources | 
 29/11 | Linear Models and Regression |
-06/12 | Feature Engineering |
+06/12 | Multiple Linear Modeling |
 13/12 | Classification |
 20/12 | Clustering |
 27/12 | Data Science and Ethics | 
  
 
 ## Useful Links and Resources
-- [Data8 Course](http://data8.org/)
-- [Data100 Course](http://data100.org/)
+- [Data8 Course at Berkeley](http://data8.org/)
+- [Data100 Course at Berkeley](http://data100.org/)
 - [Scikit-learn](https://scikit-learn.org/stable/index.html)
 
 
