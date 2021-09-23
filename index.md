@@ -7,6 +7,10 @@ This course covers the basic elements of data science life cycle, including stat
 - Nazli Ikizler-Cinbis (nazli - at - cs.hacettepe.edu.tr) 
 - TA: Feyza Nur Kilicarslan (feyza - at - cs.hacettepe.edu.tr)
 
+## Time
+- Mondays 14:00-16:45
+
+
 ## Reference Books
   - [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html), Ani Adhikari and John DeNero, 2021.
   - [Principles and Techniques of Data Science](http://www.textbook.ds100.org/intro.html), Sam Lau, Joey Gonzalez, Deb Nolan, 2021.
