@@ -22,7 +22,7 @@ Quizzes | 10%
 Final | 40%
 
 ### Announcement and Communications
-All the communications will be carried out via Piazza, please enroll to AIN212 Piazza site: http://piazza.com/hacettepe.edu.tr/fall2021/ain212
+All the communications will be carried out via Piazza, please enroll to AIN212 Piazza [link](http://piazza.com/hacettepe.edu.tr/fall2021/ain212).
 
 ### Tentative Schedule
 
