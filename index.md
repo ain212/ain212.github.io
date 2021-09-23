@@ -58,7 +58,7 @@ Date | Topic | Reading(s)
 06/12 | Feature Engineering |
 13/12 | Classification |
 20/12 | Clustering |
-27/11 | Data Science and Ethics | 
+27/12 | Data Science and Ethics | 
  
 
 ## Useful Links and Resources
