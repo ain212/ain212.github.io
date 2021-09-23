@@ -8,7 +8,7 @@ This course covers the basic elements of data science life cycle, including stat
 
 ## Instructors
 - Nazli Ikizler-Cinbis (nazli - at - cs.hacettepe.edu.tr) 
-- TA: Feyza Nur Kilicarslan (feyza - at - cs.hacettepe.edu.tr)
+- TA: Feyza Nur Kilicarslan (feyzanur - at - cs.hacettepe.edu.tr)
 
 ## Time
 - Mondays 14:00-16:45
