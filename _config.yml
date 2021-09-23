@@ -1,3 +1,9 @@
 theme: minima
 
 title: AIN212
+author:
+  name: N. Ikizler-Cinbis
+  email: nazli@cs.hacettepe
+  
+social_links:
+  twitter: mylink
