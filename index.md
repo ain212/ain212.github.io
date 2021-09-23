@@ -16,6 +16,7 @@ This course covers the basic elements of data science life cycle, including stat
 ## Grading
 
 ### AIN 212
+
 Content | Percentage
 --------- | ----------
 Midterm  | 30%
@@ -24,19 +25,20 @@ Quizzes | 10%
 Final | 40%
 
 ### AIN 214
+
 Content | Percentage
 --------- | ----------
 Homeworks  | 15%+20%+20%+20%+25%
 
 
-## Announcement and Communications
-All the communications will be carried out via Piazza, please enroll to AIN212 Piazza [link](http://piazza.com/hacettepe.edu.tr/fall2021/ain212).
+## Announcements and Communications
+All the communications will be carried out via Piazza, so please enroll to AIN212 Piazza [link](http://piazza.com/hacettepe.edu.tr/fall2021/ain212).
 
 ## (Tentative) Schedule
 
 Date | Topic | Reading(s)
 ---------|---------- |--------------
-27/09 | Introduction |
+27/09 | Introduction to Data Science |
 04/10 | Causality, Experiments, Tables | 
 11/10 | Data Sampling, Distributions and Testing Hypotheses |
 18/10 | Rectangular Data and Basic SQL | 
