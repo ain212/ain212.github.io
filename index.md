@@ -56,5 +56,7 @@ Date | Topic | Reading(s)
 
 ## Useful Links and Resources
 [Scikit-learn](https://scikit-learn.org/stable/index.html)
+[Data8 Course](http://data8.org/)
+[Data100 Course](http://data100.org/)
 
 
