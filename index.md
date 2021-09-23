@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# AIN 212 - Elements of Data Science
+## Fall 2021 
 
-You can use the [editor on GitHub](https://github.com/ain212/ain212.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Objectives
+This course covers the basic elements of data science life cycle, including statistics for data science, data exploration, data preprocessing, visualization, data analysis and inference. We will explore key areas including question formulation, data collection and cleaning, visualization, statistical inference, predictive modeling, and decision making. Specifically, we will focus on transforming, querying and analyzing data; basic algorithms for data analysis including regression, classification and clustering; principles behind creating informative data visualizations; statistical concepts of measurement error and prediction; and techniques for scalable data processing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Reference Books
+  - Computational and Inferential Thinking: The Foundations of Data Science, Ani Adhikari and John DeNero, 2021 [https://inferentialthinking.com/chapters/intro.html]
+  - Principles and Techniques of Data Science, Sam Lau, Joey Gonzalez, Deb Nolan, 2021 [http://www.textbook.ds100.org/intro.html]
+  - The Art of Data Science, Peng and Matzau, 2017 [https://bookdown.org/rdpeng/artofdatascience/]
+  - Python Data Science Handbook, Jake VanderPlas [https://jakevdp.github.io/PythonDataScienceHandbook/]
 
-### Markdown
+### Grading
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Midterm 30%
+- Project 20% 
+- Quizzes 10%
+- Final 40%
 
-```markdown
-Syntax highlighted code block
+### Announcement and Communications
+All the communications will be carried out via Piazza, please enroll to AIN212 Piazza site: [http://piazza.com/hacettepe.edu.tr/fall2021/ain212]
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ain212/ain212.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
