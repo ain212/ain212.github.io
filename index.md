@@ -1,5 +1,7 @@
 
-# AIN 212 - Elements of Data Science (Fall 2021)
+{:toc}
+
+# Fall 2021
 
 ## Course Information
 This course covers the basic elements of data science life cycle, including statistics for data science, data exploration, data preprocessing, visualization, data analysis and inference. We will explore key areas including question formulation, data collection and cleaning, visualization, statistical inference, predictive modeling, and decision making. Specifically, we will focus on transforming, querying and analyzing data; basic algorithms for data analysis including regression, classification and clustering; principles behind creating informative data visualizations; statistical concepts of measurement error and prediction; and techniques for scalable data processing.
