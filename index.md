@@ -52,7 +52,7 @@ Date | Topic | Reading(s)
 13/12 | Classification |
 20/12 | Clustering |
 27/11 | Data Science and Ethics | 
-
+ 
 
 ## Useful Links and Resources
 [Scikit-learn](https://scikit-learn.org/stable/index.html)
