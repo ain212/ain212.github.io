@@ -1,7 +1,6 @@
 
-{:toc}
 
-# Fall 2021
+# Fall 2021 
 
 ## Course Information
 This course covers the basic elements of data science life cycle, including statistics for data science, data exploration, data preprocessing, visualization, data analysis and inference. We will explore key areas including question formulation, data collection and cleaning, visualization, statistical inference, predictive modeling, and decision making. Specifically, we will focus on transforming, querying and analyzing data; basic algorithms for data analysis including regression, classification and clustering; principles behind creating informative data visualizations; and statistical concepts of measurement error and prediction.
@@ -66,4 +65,4 @@ Week | Date | Topic | Reading(s)
 - [Data100 Course at Berkeley](http://data100.org/)
 - [Scikit-learn](https://scikit-learn.org/stable/index.html)
 
-
+## _(Web site in progress)_
