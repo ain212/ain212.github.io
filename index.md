@@ -26,9 +26,9 @@ This course covers the basic elements of data science life cycle, including stat
 Content | Percentage
 --------- | ----------
 Midterm  | 30%
-Project | 20% 
+Project | 15% 
 Quizzes | 10%
-Final | 40%
+Final | 45%
 
 ### AIN 214
 
