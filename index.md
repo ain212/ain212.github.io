@@ -62,7 +62,7 @@ Week | Date | Topic | Reading(s)
 
 ## Useful Links and Resources
 - [Data8 Course at Berkeley](http://data8.org/)
-- [Data100 Course at Berkeley](http://data100.org/)
+- [Data100 Course at Berkeley](https://ds100.org/)
 - [Scikit-learn](https://scikit-learn.org/stable/index.html)
 - [Think Stats Book](https://greenteapress.com/wp/think-stats-2e/)
 
