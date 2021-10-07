@@ -46,8 +46,8 @@ Week | Date | Topic | Lecture Notes | Additional Reading(s)
 ---------|---------|---------- |--------------|--------------
 1 | 27/09 | Introduction to Data Science | [pdf](/resources/lecture1.pdf) |
 2 | 04/10 | Causality, Experiments, Tables in Python | [pdf](/resources/lecture2.pdf) | 
-3 | 11/10 | Data Sampling, Distributions and Testing Hypotheses | | 
-4 | 18/10 | Rectangular Data and Basic SQL | |
+3 | 11/10 | Rectangular Data and Basic SQL  | | 
+4 | 18/10 | Data Sampling, Distributions and Testing Hypotheses | |
 5 | 25/10 | Data Cleaning, Reduction and Transformation | |
 6 | 01/11 | Data Visualization | |
 7 | 08/11 | Introduction to Statistical Inference  | |
