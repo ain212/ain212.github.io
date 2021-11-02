@@ -47,7 +47,7 @@ Week | Date | Topic | Lecture Notes | Additional Reading(s)
 1 | 27/09 | Introduction to Data Science | [pdf](/resources/lecture1.pdf) |
 2 | 04/10 | Causality, Experiments, Tables in Python | [pdf](/resources/lecture2.pdf) | 
 3 | 11/10 | Rectangular Data and Basic SQL  | | 
-4 | 18/10 | Data Sampling, Distributions and Testing Hypotheses | |
+4 | 18/10 | SQL continued | |
 5 | 25/10 | Data Cleaning, Reduction and Transformation | |
 6 | 01/11 | Data Visualization | |
 7 | 08/11 | Introduction to Statistical Inference  | |
@@ -65,5 +65,6 @@ Week | Date | Topic | Lecture Notes | Additional Reading(s)
 - [Data100 Course at Berkeley](https://ds100.org/)
 - [Scikit-learn](https://scikit-learn.org/stable/index.html)
 - [Think Stats Book](https://greenteapress.com/wp/think-stats-2e/)
+- [Introduction to Applied Linear Algebra Book](http://vmls-book.stanford.edu/)
 
 ## _(Web site in progress)_
