@@ -10,7 +10,8 @@ This course covers the basic elements of data science life cycle, including stat
 - TA: Feyza Nur Kilicarslan (feyzanur - at - cs.hacettepe.edu.tr)
 
 ## Time
-- Mondays 14:00-16:45
+- Mondays 09:00-09:50
+- Tuesdays 15:00-16:50
 
 
 ## Reference Books
