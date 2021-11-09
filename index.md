@@ -50,7 +50,7 @@ Week | Date | Topic | Lecture Notes | Additional Reading(s)
 4 | 18/10 | SQL continued | |
 5 | 25/10 | Data Cleaning, Reduction and Transformation | |
 6 | 01/11 | Data Visualization | |
-7 | 08/11 | Introduction to Statistical Inference  | |
+7 | 08/11 | Introduction to Statistical Inference and Regression | |
 8 | 15/11 | Midterm Exam | |
 9 | 22/11 | Text, Graphs and Other Data Resources | |
 10 | 29/11 | Linear Models and Regression | |
