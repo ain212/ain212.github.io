@@ -1,3 +1,5 @@
+{:toc}
+
 ## Your First Data Science Project
 
 ### Due Date: 16 Jan 2022
