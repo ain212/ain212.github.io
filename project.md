@@ -33,7 +33,7 @@ In this last step of the data science cycle, you should evaluate your classifica
 You should present all your findings in a report. 
 
 ### Some websites for datasets 
-  - [Kaggle](https://www.kaggle.com/datasets).
-  - [Google Cloud](https://cloud.google.com/solutions/datasets).
-  - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php).
+  - [Kaggle](https://www.kaggle.com/datasets)
+  - [Google Cloud](https://cloud.google.com/solutions/datasets)
+  - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
   
