@@ -13,7 +13,7 @@ In this project, you are expected to complete the lifecycle of Data Science for 
 - Data Visualization
 
 <img src="http://www.cortell.co.za/wp-content/uploads/2018/06/chart.png" alt="drawing" width="400"/>
-["http://www.cortell.co.za/wp-content/uploads/2018/06/chart.png](Source)
+[Source](http://www.cortell.co.za/wp-content/uploads/2018/06/chart.png)
 
 ## Step 1: Data Collection
 In this step, you can either use one of the existing datasets or scrap the web for collecting your own data. Make sure that the data you have consist of at least 3000 data points with 20 features at minimum. At this step, you can use many of the existing dataset resources to acquire your data, some of which are listed below. Note that you can take a proper subset of an larger dataset if you need to.  
