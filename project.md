@@ -1,6 +1,5 @@
-{:toc}
+## Your First Data Science Project
 
-# Your First Data Science Project
 ### Due Date: 16 Jan 2022
 
 In this project, you are expected to complete the lifecycle of Data Science for a specific topic that you choose. More specifically, your project should consist of the following steps:
