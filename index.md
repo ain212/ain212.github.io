@@ -51,8 +51,8 @@ Week | Date | Topic | Lecture Notes | Additional Reading(s)
 5 | 01/11 | Data Cleaning, Reduction and Transformation | |
 6 | 08/11 | Data Visualization | |
 7 | 15/11 | Midterm 1 | |
-8 | 15/11 | Introduction to Statistical Inference and Regression | |
-9 | 22/11 | Linear Models and Regression (cont'd)| |
+8 | 22/11 | Introduction to Statistical Inference and Regression | |
+9 | 29/11 | Linear Models and Regression (cont'd)| |
 10 | 06/12 | Classification and Logistic Regression | |
 11 | 13/12 | Midterm 2 | |
 12 | 13/12 | Classification Trees | |
