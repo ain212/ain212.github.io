@@ -55,9 +55,9 @@ Week | Date | Topic | Lecture Notes | Additional Reading(s)
 9 | 29/11 | Linear Models and Regression (cont'd)| |
 10 | 06/12 | Classification and Logistic Regression | |
 11 | 13/12 | Midterm 2 | |
-12 | 13/12 | Classification Trees | |
-13 | 20/12 | Clustering  | |
-14 | 27/12 | Text, graphs and other data types | |
+12 | 20/12 | Classification Trees | |
+13 | 27/12 | Clustering  | |
+14 | 03/01 | Text, graphs and other data types | |
 
  
 
