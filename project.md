@@ -2,9 +2,11 @@
 
 ## Your First Data Science Project
 
-### Due Date: 16 Jan 2022
+### Due Date: 10 Jan 2023
 
-In this project, you are expected to complete the lifecycle of Data Science for a specific topic that you choose. More specifically, your project should consist of the following steps:
+In this project, you are expected to complete the lifecycle of Data Science for a specific dataset that you choose. This year's theme is **health**, so you should work on a dataset that is related to health. The dataset you choose should be suitable for classification task. 
+
+More specifically, your project should consist of the following steps:
 - Data Collection
 - Data Preprocessing and Cleaning
 - Data Exploration
@@ -25,7 +27,7 @@ Based on the data science question that you want to explore, preprocess the data
 In this step, you should explore data, present some of the critical statistics about the data that has been collected and preprocessed. At this step, you should also carry out **clustering** analysis on the data as well. The results of data analysis step must be presented via visualization. 
 
 ## Step 4: Predictive Modelling
-In this step, you should carry on **classification or regression** based on what you want to predict from the data. You should clearly state which algorithms that you try and why. You should properly setup your training environment, ie. setup your training, validation and test sets. You should also comment on the parameter selection procedures and analyse the performance based on the parameters. 
+In this step, you should carry on **classification** based on what you want to predict from the data. You should clearly state which algorithms that you try and why. You should properly setup your training environment, ie. setup your training, validation and test sets. You should also comment on the parameter selection procedures and analyse the performance based on the parameters. 
 
 ## Step 5: Model Evaluation and Visualizations  
 In this last step of the data science cycle, you should evaluate your classification or regression model based on the evaluation measures. In addition, you should provide visualizations on the performance of your algorithm (such as confusion matrices, ROC curves, PR curves, etc.).
