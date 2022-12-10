@@ -4,7 +4,9 @@
 
 ### Due Date: 10 Jan 2023
 
-In this project, you are expected to complete the lifecycle of Data Science for a specific dataset that you choose. This year's theme is **health**, so you should work on a dataset that is related to health. The dataset you choose should be suitable for classification task. 
+In this project, you are expected to complete the lifecycle of Data Science for a specific dataset that you choose. 
+
+This year's theme is **health**, so you should work on a dataset that is related to health. The dataset you choose should be suitable for multi-class classification task, ie. it should include classification into 3 or more classes. 
 
 More specifically, your project should consist of the following steps:
 - Data Collection
@@ -30,7 +32,7 @@ In this step, you should explore data, present some of the critical statistics a
 In this step, you should carry on **classification** based on what you want to predict from the data. You should clearly state which algorithms that you try and why. You should properly setup your training environment, ie. setup your training, validation and test sets. You should also comment on the parameter selection procedures and analyse the performance based on the parameters. 
 
 ## Step 5: Model Evaluation and Visualizations  
-In this last step of the data science cycle, you should evaluate your classification or regression model based on the evaluation measures. In addition, you should provide visualizations on the performance of your algorithm (such as confusion matrices, ROC curves, PR curves, etc.).
+In this last step of the data science cycle, you should evaluate your classification model based on various different evaluation metrics. In addition, you should provide visualizations on the performance of your algorithm (such as confusion matrices, ROC curves, PR curves, etc.).
 
 You should present all your findings in a report. 
 
