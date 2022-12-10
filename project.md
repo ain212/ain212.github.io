@@ -6,7 +6,7 @@
 
 In this project, you are expected to complete the lifecycle of Data Science for a specific dataset that you choose. 
 
-This year's theme is **health**, so you should work on a dataset that is related to health. The dataset you choose should be suitable for multi-class classification task, ie. it should include classification into 3 or more classes. 
+This year's theme is **health**, so you should work on a dataset that is related to health. The dataset you choose should be suitable for  classification task. 
 
 More specifically, your project should consist of the following steps:
 - Data Collection
