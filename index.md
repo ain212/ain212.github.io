@@ -38,7 +38,7 @@ Homeworks  | 15%+20%+20%+20%+25%
 
 
 ## Announcements and Communications
-All the communications will be carried out via Piazza, so please enroll to AIN212 Piazza [link](http://piazza.com/hacettepe.edu.tr/fall2022/ain212).
+All the communications will be carried out via Piazza, so please enroll to AIN212 Piazza [link](http://piazza.com/hacettepe.edu.tr/fall2023/ain212).
 
 ## (Tentative) Schedule
 
