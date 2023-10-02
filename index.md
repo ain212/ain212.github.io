@@ -1,16 +1,16 @@
 {:toc}
 
-# Fall 2022
+# Fall 2023
 
 ## Course Information
 This course covers the basic elements of data science life cycle, including statistics for data science, data exploration, data preprocessing, visualization, data analysis and inference. We will explore key areas including question formulation, data collection and cleaning, visualization, statistical inference, predictive modeling, and decision making. Specifically, we will focus on transforming, querying and analyzing data; basic algorithms for data analysis including regression, classification and clustering; principles behind creating informative data visualizations; and statistical concepts of measurement error and prediction.
 
 ## Instructors
 - Nazli Ikizler-Cinbis (nazli - at - cs.hacettepe.edu.tr) 
-- TA: Feyza Nur Kilicarslan (feyzanur - at - cs.hacettepe.edu.tr)
+- TA: Ardan Yılmaz (ardanyilmaz - at - cs.hacettepe.edu.tr)
 
 ## Time
-- Tuesdays 13:00-15:40
+- Tuesdays 12:40-15:30
 
 
 ## Reference Books
