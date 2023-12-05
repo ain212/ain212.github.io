@@ -25,8 +25,8 @@ In this step, you can either use one of the existing datasets or scrap the web f
 At this step, you can use many of the existing dataset resources to acquire your data, some of which are listed below. **Note that you can take a proper subset of an larger dataset if you need to. ** 
 
 ## Step 2: Data Preprocessing and Cleaning 
-Based on the data science question that you want to explore, preprocess the data according to the principles that we have discussed in class. You may need to do cleaning, if the data has significant amount of noise. Also, you may need to preprocess the textual data to create your own predictor variables. (You can see [Online News Popularity Data](https://archive.ics.uci.edu/dataset/332/online+news+popularity) for inspiration) 
-Analyze your data accordingly and report your observations. 
+Based on the data science question that you want to explore, preprocess the data according to the principles that we have discussed in class. You may need to do cleaning, if the data has significant amount of noise. Also, you may need to preprocess the textual data to create your own predictor variables (You can see [Online News Popularity Data](https://archive.ics.uci.edu/dataset/332/online+news+popularity) for inspiration).
+Describe in detail all the data preprocessing steps that you have done. Analyze your data and report your observations. 
 
 ## Step 3: Data Exploration and Analysis
 In this step, you should explore data, present some of the critical statistics about the data that has been collected and preprocessed. At this step, you should also carry out **clustering** analysis on the data as well. The results of data analysis step must be presented via visualization. 
