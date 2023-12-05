@@ -44,5 +44,5 @@ You should present all your findings in a report.
   - [Google Cloud](https://cloud.google.com/solutions/datasets)
   - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
   - [Some links to free datasets](https://builtin.com/data-science/free-datasets)
-  - 
+  - [More datasets](https://code.datasciencedojo.com/datasciencedojo/datasets)
   
