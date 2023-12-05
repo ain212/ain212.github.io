@@ -22,7 +22,7 @@ More specifically, your project should consist of the following steps:
 ## Step 1: Data Collection
 In this step, you can either use one of the existing datasets or scrap the web for collecting your own data. Make sure that the data you have consists of at least 3000 data points with 10 features at minimum. 
 
-At this step, you can use many of the existing dataset resources to acquire your data, some of which are listed below. **Note that you can take a proper subset of an larger dataset if you need to. ** 
+At this step, you can use many of the existing dataset resources to acquire your data, some of which are listed below. **Note that you can take a proper subset of an larger dataset if you need to.** 
 
 ## Step 2: Data Preprocessing and Cleaning 
 Based on the data science question that you want to explore, preprocess the data according to the principles that we have discussed in class. You may need to do cleaning, if the data has significant amount of noise. Also, you may need to preprocess the textual data to create your own predictor variables (You can see [Online News Popularity Data](https://archive.ics.uci.edu/dataset/332/online+news+popularity) for inspiration).
