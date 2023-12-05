@@ -6,7 +6,7 @@
 
 In this project, you are expected to complete the lifecycle of Data Science for a specific dataset that you choose. 
 
-This year's theme is **text analysis**, so you should work on a dataset that includes a number of attributes that involves textual data. The dataset you choose should be suitable for classification task. 
+This year's theme is **text analysis**, so you should work on a dataset that **includes a number of attributes that involves textual data**. The dataset you choose should be suitable for classification task. 
 
 More specifically, your project should consist of the following steps:
 - Data Collection
@@ -20,7 +20,7 @@ More specifically, your project should consist of the following steps:
 [Source](http://www.cortell.co.za/wp-content/uploads/2018/06/chart.png)
 
 ## Step 1: Data Collection
-In this step, you can either use one of the existing datasets or scrap the web for collecting your own data. Make sure that the data you have consist of at least 3000 data points with 10 features at minimum. 
+In this step, you can either use one of the existing datasets or scrap the web for collecting your own data. Make sure that the data you have consists of at least 3000 data points with 10 features at minimum. 
 
 At this step, you can use many of the existing dataset resources to acquire your data, some of which are listed below. **Note that you can take a proper subset of an larger dataset if you need to. ** 
 
