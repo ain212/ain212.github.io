@@ -6,7 +6,7 @@
 
 In this project, you are expected to complete the lifecycle of Data Science for a specific dataset that you choose. 
 
-This year's themes are **Environment Analysis**, so you should work on a dataset that is closely related to this theme. The dataset you choose should be suitable for classification task. 
+This year's theme is **Environment Analysis**, so you should work on a dataset that is closely related to this theme. The dataset you choose should be suitable for classification task. 
 
 More specifically, your project should consist of the following steps:
 - Data Collection
