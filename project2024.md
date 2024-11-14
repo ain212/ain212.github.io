@@ -6,7 +6,7 @@
 
 In this project, you are expected to complete the lifecycle of Data Science for a specific dataset that you choose. 
 
-This year's theme is **text analysis**, so you should work on a dataset that **includes a number of attributes that involves textual data**. The dataset you choose should be suitable for classification task. 
+This year's themes are **Environment Analysis**, so you should work on a dataset that is closely related to this theme. The dataset you choose should be suitable for classification task. 
 
 More specifically, your project should consist of the following steps:
 - Data Collection
@@ -29,7 +29,7 @@ Based on the data science question that you want to explore, preprocess the data
 Describe in detail all the data preprocessing steps that you have done. Analyze your data and report your observations. 
 
 ## Step 3: Data Exploration and Analysis
-In this step, you should explore data, present some of the critical statistics about the data that has been collected and preprocessed. At this step, you should also carry out **clustering** analysis on the data as well. The results of data analysis step must be presented via visualization. 
+In this step, you should explore data, present some of the critical statistics about the data that has been collected and preprocessed. At this step, you should also carry out **clustering** analysis on the data as well. The results of data analysis step must be presented via visualization and the results of clustering should be discussed in detail. 
 
 ## Step 4: Predictive Modelling
 In this step, you should carry on **classification** based on what you want to predict from the data. You should at least try **two classification algorithms** that we have seen in class and compare their performance. You should clearly state which algorithms that you try and why. You should properly setup your training environment, ie. setup your training, validation and test sets. You should also comment on the parameter selection procedures and analyse the performance based on the parameters. 
