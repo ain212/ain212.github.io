@@ -16,8 +16,8 @@ More specifically, your project should consist of the following steps:
 - Predictive Modelling
 - Data Visualization
 
-<img src="http://www.cortell.co.za/wp-content/uploads/2018/06/chart.png" alt="drawing" width="400"/>
-[Source](http://www.cortell.co.za/wp-content/uploads/2018/06/chart.png)
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BI09I0D58BBYPD_LgE46Mw.png" alt="drawing" width="400"/>
+[Source](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BI09I0D58BBYPD_LgE46Mw.png)
 
 ## Step 1: Data Collection
 In this step, you can either use one of the existing datasets or scrap the web for collecting your own data. Make sure that the data you have consists of at least 3000 data points with 10 features at minimum. 
