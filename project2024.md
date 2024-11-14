@@ -20,7 +20,7 @@ More specifically, your project should consist of the following steps:
 [Source](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BI09I0D58BBYPD_LgE46Mw.png)
 
 ## Step 1: Data Collection
-In this step, you can either use one of the existing datasets or scrap the web for collecting your own data. Make sure that the data you have consists of at least 3000 data points with 10 features at minimum. 
+In this step, you can either use one of the existing datasets or scrap the web for collecting your own data. Make sure that the data you have consists of at least 5000 data points with 12 features at minimum. 
 
 At this step, you can use many of the existing dataset resources to acquire your data, some of which are listed below. **Note that you can take a proper subset of an larger dataset if you need to.** 
 
