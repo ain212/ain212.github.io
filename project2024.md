@@ -16,7 +16,7 @@ More specifically, your project should consist of the following steps:
 - Predictive Modelling
 - Data Visualization
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BI09I0D58BBYPD_LgE46Mw.png" alt="drawing" width="500"/>
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BI09I0D58BBYPD_LgE46Mw.png" alt="drawing" width="600"/>
 [Source](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BI09I0D58BBYPD_LgE46Mw.png)
 
 ## Step 1: Data Collection
