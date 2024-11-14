@@ -2,7 +2,7 @@
 
 ## Your First Data Science Project
 
-### Due Date: 7 Jan 2024
+### Due Date: 3 Jan 2025
 
 In this project, you are expected to complete the lifecycle of Data Science for a specific dataset that you choose. 
 
