@@ -20,7 +20,7 @@ More specifically, your project should consist of the following steps:
 [Source](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BI09I0D58BBYPD_LgE46Mw.png)
 
 ## Step 1: Data Collection
-In this step, you can either use one of the existing datasets or scrap the web for collecting your own data. Make sure that the data you have consists of at least 5000 data points with 12 features at minimum. 
+In this step, you can either use one of the existing datasets or scrap the web for collecting your own data. Make sure that the data you have consists of **at least 5000 data points with 15 features at minimum**. 
 
 At this step, you can use many of the existing dataset resources to acquire your data, some of which are listed below. **Note that you can take a proper subset of an larger dataset if you need to.** 
 
@@ -28,7 +28,7 @@ At this step, you can use many of the existing dataset resources to acquire your
 Based on the data science question that you want to explore, preprocess the data according to the principles that we have discussed in class. You may need to do cleaning, if the data has significant amount of noise. Also, you may need to preprocess the textual data to create your own variables. Describe in detail all the data preprocessing steps that you have done. Analyze your data and report your observations. 
 
 ## Step 3: Data Exploration and Analysis
-In this step, you should explore data, present some of the critical statistics about the data that has been collected and preprocessed. At this step, you should also carry out **clustering** analysis on the data as well. The results of data analysis step must be presented via visualization and the results of clustering should be discussed in detail. 
+In this step, you should explore data, present some of the critical statistics about the data that has been collected and preprocessed. At this step, you should also carry out **clustering analysis** on the data as well. The results of data analysis step must be presented via visualization and the results of clustering should be discussed in detail. 
 
 ## Step 4: Predictive Modelling
 In this step, you should carry on **classification** based on what you want to predict from the data. You should apply at least **three classification algorithms** that we have talked about in class and compare their performance. You should clearly state which algorithms that you try and why. You should properly setup your training environment, ie. setup your training, validation and test sets. You should also comment on the parameter selection procedures and analyse the performance based on the parameters. 
